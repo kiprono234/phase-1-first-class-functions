@@ -11,4 +11,4 @@ const returnsAnAnonymousFunction = () => {
     return function(){
         
     }
-}
+};
